@@ -102,7 +102,7 @@ button {
   buttons and links
 ===================*/
 .link:hover{
-  
+
 }
 .link {
   color: var(--clr-primary);
@@ -415,7 +415,7 @@ main {
   }
 
   .nav__list-item {
-    margin: 0.5em 0;
+    margin: 5em 0;
   }
 
   .nav__hamburger {
