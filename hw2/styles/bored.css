@@ -1,0 +1,24 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#bored-button {
+  cursor: pointer;
+  font-size: larger;
+}
+
+#card {
+  font-size: medium;
+  font-family:'Courier New', Courier, monospace;
+  padding-left: .7cm;
+  padding-right: .7cm;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  margin: 30px
+}
